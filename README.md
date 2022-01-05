@@ -1,5 +1,5 @@
 # sourcecoding
-generates probability statistics of randomly generated lists of target size drawn from a target alphabet size
+estimates probability statistics of randomly generated lists of target size drawn from a target alphabet size
 
 sample usage 1: i want to estimate the probability of similarity between two randomly sequenced playlists of 20 tracks drawn from a library of 170,609 tracks (in this example, the total number of drum'n'bass releases on discogs.com)
 
