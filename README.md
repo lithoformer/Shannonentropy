@@ -13,7 +13,7 @@ source_coding(20,170609);
 
     0.0040
 
-sample usage2 : i want to estimate the probability of similarity between two random oligo sequences of length 29,881 (the published size of the COVID-19 genome)
+sample usage 2 : i want to estimate the probability of similarity between two random oligo sequences of length 29,881 (the published size of the COVID-19 genome)
 
 https://journals.asm.org/doi/10.1128/MRA.00169-20#:~:text=The%20final%20genome%20of%20sequenced,and%209%2C574%20(32.12%25)%20thymines
 
