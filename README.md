@@ -25,3 +25,6 @@ source_coding(29881,4);
     97
 
    8.6370e-08
+
+
+https://en.wikipedia.org/wiki/Entropy_(information_theory)
