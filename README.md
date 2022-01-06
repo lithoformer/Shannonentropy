@@ -7,23 +7,23 @@ https://www.discogs.com/search/?genre_exact=Electronic&style_exact=Drum+n+Bass
 
 source_coding(17,170610);
 
-     1117131
+      986917
 
-      172771
+      112967
 
-    0.0091
-    
+   6.7091e-07
+   
+   
 sample usage 2 : i want to estimate the entropy of a randomly generated DNA sequence of length 29,881 nucleotides (the published size of the COVID-19 genome)
 
 https://journals.asm.org/doi/10.1128/MRA.00169-20#:~:text=The%20final%20genome%20of%20sequenced,and%209%2C574%20(32.12%25)%20thymines
 
 source_coding(29881,4);
 
-       37585
+       37567
 
-    97
+   263
 
-   8.6370e-08
-
+    0.0018
 
 https://en.wikipedia.org/wiki/Entropy_(information_theory)
