@@ -52,6 +52,6 @@ ascii1 = abs(sum(z,'all'));
 disp(ascii0);
 disp(ascii1);
 
-disp(ascii1/ascii0/size0);
+disp(ascii1/ascii0/dictionary0);
 
 end
