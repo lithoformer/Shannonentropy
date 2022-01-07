@@ -14,7 +14,7 @@ source_coding(17,170610);
    6.7091e-07
    
    
-sample usage 2 : i want to estimate the entropy of a randomly generated DNA sequence of length 29,881 nucleotides (the published size of the COVID-19 genome)
+sample usage 2: i want to estimate the entropy of a randomly generated DNA sequence of length 29,881 nucleotides (the published size of the COVID-19 genome)
 
 https://journals.asm.org/doi/10.1128/MRA.00169-20#:~:text=The%20final%20genome%20of%20sequenced,and%209%2C574%20(32.12%25)%20thymines
 
