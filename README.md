@@ -1,4 +1,4 @@
-# sourcecodingentropy
+# Shannon entropy
 estimates the entropy E of a randomly generated list of target size drawn from a target alphabet size
 
 sample usage 1: i want to estimate the entropy of a randomly sequenced playlist of 17 tracks drawn from a library of 170,610 releases (in this example, the total number of drum'n'bass releases on discogs.com)
