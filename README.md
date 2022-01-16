@@ -1,17 +1,17 @@
 # Shannon entropy
 estimates the entropy E of a randomly generated list of target size drawn from a target alphabet size
 
-sample usage 1: i want to estimate the entropy of a randomly sequenced playlist of 17 tracks drawn from a library of 170,610 releases (in this example, the total number of drum'n'bass releases on discogs.com)
+sample usage 1: i want to estimate the entropy of a randomly sequenced playlist of 17 tracks drawn from a library of 170,961 releases (in this example, the total number of drum'n'bass releases on discogs.com)
 
 https://www.discogs.com/search/?genre_exact=Electronic&style_exact=Drum+n+Bass
 
-source_coding(17,170610);
+source_coding(17,170961);
 
-      986917
+      682023
 
-      112967
+      357055
 
-   6.7091e-07
+   3.0622e-06
    
    
 sample usage 2: i want to estimate the entropy of a randomly generated DNA sequence of length 29,881 nucleotides (the published size of the COVID-19 genome)
